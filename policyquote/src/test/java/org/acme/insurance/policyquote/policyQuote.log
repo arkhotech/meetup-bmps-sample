@@ -1,0 +1,88 @@
+<object-stream>
+<org.drools.core.audit.WorkingMemoryLog>
+  <version>6.1</version>
+  <events>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>1</type>
+      <factId>1</factId>
+      <objectToString>Driver [driverName=null, age=20, ssn=null, dlNumber=null, numberOfAccident=1, numberOfTickets=0, creditScore=500]</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>1</type>
+      <factId>2</factId>
+      <objectToString>Policy [policyType=AUTO, vehicleYear=2004, price=null, priceDiscount=null, driver=null]</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>3</type>
+      <factId>1</factId>
+      <objectToString>Driver [driverName=null, age=20, ssn=null, dlNumber=null, numberOfAccident=1, numberOfTickets=0, creditScore=500]</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>3</type>
+      <factId>2</factId>
+      <objectToString>Policy [policyType=AUTO, vehicleYear=2004, price=null, priceDiscount=null, driver=null]</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>1</type>
+      <factId>3</factId>
+      <objectToString>Driver [driverName=null, age=30, ssn=null, dlNumber=null, numberOfAccident=1, numberOfTickets=0, creditScore=500]</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>1</type>
+      <factId>4</factId>
+      <objectToString>Policy [policyType=AUTO, vehicleYear=2004, price=null, priceDiscount=null, driver=null]</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>3</type>
+      <factId>3</factId>
+      <objectToString>Driver [driverName=null, age=30, ssn=null, dlNumber=null, numberOfAccident=1, numberOfTickets=0, creditScore=500]</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>3</type>
+      <factId>4</factId>
+      <objectToString>Policy [policyType=AUTO, vehicleYear=2004, price=null, priceDiscount=null, driver=null]</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>1</type>
+      <factId>5</factId>
+      <objectToString>Driver [driverName=null, age=20, ssn=null, dlNumber=null, numberOfAccident=0, numberOfTickets=0, creditScore=500]</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>1</type>
+      <factId>6</factId>
+      <objectToString>Policy [policyType=AUTO, vehicleYear=2004, price=null, priceDiscount=null, driver=null]</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>3</type>
+      <factId>5</factId>
+      <objectToString>Driver [driverName=null, age=20, ssn=null, dlNumber=null, numberOfAccident=0, numberOfTickets=0, creditScore=500]</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>3</type>
+      <factId>6</factId>
+      <objectToString>Policy [policyType=AUTO, vehicleYear=2004, price=null, priceDiscount=null, driver=null]</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>1</type>
+      <factId>7</factId>
+      <objectToString>Driver [driverName=null, age=30, ssn=null, dlNumber=null, numberOfAccident=0, numberOfTickets=1, creditScore=500]</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>1</type>
+      <factId>8</factId>
+      <objectToString>Policy [policyType=AUTO, vehicleYear=2004, price=null, priceDiscount=null, driver=null]</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>3</type>
+      <factId>7</factId>
+      <objectToString>Driver [driverName=null, age=30, ssn=null, dlNumber=null, numberOfAccident=0, numberOfTickets=1, creditScore=500]</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+    <org.drools.core.audit.event.ObjectLogEvent>
+      <type>3</type>
+      <factId>8</factId>
+      <objectToString>Policy [policyType=AUTO, vehicleYear=2004, price=null, priceDiscount=null, driver=null]</objectToString>
+    </org.drools.core.audit.event.ObjectLogEvent>
+  </events>
+  <engine>PHREAK</engine>
+</org.drools.core.audit.WorkingMemoryLog>
+</object-stream>
